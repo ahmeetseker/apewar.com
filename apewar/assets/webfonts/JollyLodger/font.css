@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'JollyLodger-Regular';
+  src: url('JollyLodger-Regular.eot');
+  src: url('JollyLodger-Regular.eot?#iefix') format('embedded-opentype'),
+       url('JollyLodger-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'JollyLodger';
+  src: url('JollyLodger.svg#JollyLodger') format('svg'),
+       url('JollyLodger.ttf') format('truetype'),
+       url('JollyLodger.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
